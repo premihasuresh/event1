@@ -1,0 +1,61 @@
+*{
+    font-family: sans-serif;
+    background-color: rgb(20, 20, 61);
+    color: white;
+}
+#eventHead{
+    text-align: center;
+    margin-top: 50px;
+}
+img{
+
+    width: 350px;
+    
+}
+#form{
+    
+    text-align: center;
+    margin-top: -70px;
+    
+}
+.img{
+    display: inline-block;
+    margin-left: -100px;
+    margin-top: 150px;
+
+}
+.details{
+    display: inline-block;
+    text-align:right;
+    font-size: large;
+    margin-left: 75px;
+    margin-top: -200px;
+    
+   
+}
+input{
+    width: 300px;
+    height: 30px;
+    border: 2px solid  white;
+    border-radius: 5px;
+}
+button{
+   padding-left: 25px;
+   padding-right: 25px;
+   margin-left: 40px;
+   height: 30px;
+   font-size: medium;
+   border: 2px solid white;
+   border-radius: 5px;
+   background-color:rgb(20, 20, 61) ;
+   color: white;
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: rgb(20, 20, 61);
+}
+.seat{
+  width: 40px;
+  margin-right: 260px;
+}
